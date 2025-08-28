@@ -11,4 +11,7 @@ Načrt dela:
 
 Tehnologija in orodja:
 1. Wolfram Mathematica za analizo in vizualizacijo podatkov
-2. Javni podatkovni viri (npr. SURS, Eurostat, WHO) za pridobitev statistik
+2. Javni podatkovni viri (ourworldindata.org) za pridobitev statistik
+
+# Video posnetek
+https://youtu.be/PfuNQQfhkOU
